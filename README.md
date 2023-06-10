@@ -1,2 +1,4 @@
 # Gold Price Prediction
-Analysing and predicting the price of gold (Commodity Market)
+
+## Overview
+The project titled "Analyzing Historical Data to Predict Future Gold Prices" aims to develop a reliable predictive model for forecasting gold prices based on historical data. The project involves collecting historical data on gold prices and other relevant factors that may affect gold prices, cleaning and preparing the data for analysis, and performing exploratory data analysis (EDA) to gain insights into the relationships between different variables and identify any trends or patterns in the data. Based on the insights gained from EDA, the most relevant features or variables that are likely to have a significant impact on gold prices are selected, and a predictive model is developed for forecasting gold prices. The model may involve the use of traditional statistical techniques or more advanced machine learning algorithms. Once the model is developed, it is evaluated to determine its accuracy and effectiveness in predicting future gold prices. The results of the analysis can be used to provide valuable insights into the behavior of gold prices 
